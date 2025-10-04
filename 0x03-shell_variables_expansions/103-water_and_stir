@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((5#$WATER + 7#$STIR)) | tr 0123456789 bestcholme
